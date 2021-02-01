@@ -27,4 +27,4 @@ D.JS
 - script.js
 
 E.Berikut adalah video dari pengaplikasian website:
-![Uploading bandicam 2021-02-01 15-48-31-278.gif…]()
+![Uploading bandicam 2021-02-01 15-48-31-278.gif…]
