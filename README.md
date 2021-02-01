@@ -27,4 +27,4 @@ D.JS
 - script.js
 
 E.Berikut adalah video dari pengaplikasian website:
-![Uploading bandicam 2021-02-01 15-48-31-278.gif…]
+![Alt teks](https://user-images.githubusercontent.com/77947614/106436645-f0121e00-64a6-11eb-8041-f2825f32d135.gif)
