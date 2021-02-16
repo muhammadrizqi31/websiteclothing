@@ -7,7 +7,8 @@ A.HTML
 - index.html
 
 B.CSS
-Style.css
+- Style.css
+- bootstrap.min
 
 C.GAMBAR
 - a1.jpg
