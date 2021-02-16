@@ -9,6 +9,10 @@ A.HTML
 B.CSS
 - Style.css
 - bootstrap.min
+- bootstrap.grid
+- bootstrap.grid.min
+- bootstrap.reboot.min
+
 
 C.GAMBAR
 - a1.jpg
@@ -26,7 +30,12 @@ C.GAMBAR
 
 D.JS
 - script.js
+- bootstrap.bundle
+- bootstrap.bundle.min
+- bootstrap.min
+- jquery
+- jquery.min
+- jquery.slim.min
 
 E.Berikut adalah video dari pengaplikasian website:
-![Alt teks](https://user-images.githubusercontent.com/77947614/106436645-f0121e00-64a6-11eb-8041-f2825f32d135.gif)
-![Alt teks](https://user-images.githubusercontent.com/77947614/108032239-bf181880-7064-11eb-8f2b-676d132951a6.mp4)
+![Alt teks]()
