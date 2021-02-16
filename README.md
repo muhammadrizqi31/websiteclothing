@@ -38,4 +38,4 @@ D.JS
 - jquery.slim.min
 
 E.Berikut adalah video dari pengaplikasian website:
-![Alt teks](https://user-images.githubusercontent.com/77947614/108038844-e7584500-706d-11eb-9c70-9ec6a479fb4b.gif)
+![Alt teks](https://user-images.githubusercontent.com/77947614/108042299-31432a00-7072-11eb-89ee-f1a207ab2740.gif)
